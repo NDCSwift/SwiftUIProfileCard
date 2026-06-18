@@ -5,7 +5,7 @@
 //  Created by Noah Carpenter on 2024-10-28
 //
 //  🐱 Follow me on YouTube! 🎥
-//  https://www.youtube.com/@NoahDoesCoding97
+//  https://www.youtube.com/@noahdoescoding
 //  Like and Subscribe for coding tutorials and fun! 💻✨
 //  Fun Fact: Cats have five toes on their front paws, but only four on their back paws! 🐾
 //  Dream Big, Code Bigger
